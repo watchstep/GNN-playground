@@ -1,1 +1,3 @@
-# GNN-playground
+# 🤸 GNN-playground
+
+**Play with GNN**
